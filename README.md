@@ -13,7 +13,8 @@
 - IT 정보공학과 김민주  
 
 ### 개발 환경
-![Spring Boot](https://img.shields.io/badge/springboot-%6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
+<img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge">![Spring Boot](https://img.shields.io/badge/springboot-%6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=kibana)
 
@@ -39,6 +40,7 @@
 git clone https://github.com/hyeonjikim-kr/firstsnow-project.git
 ```
 
-3. Open the project in your browser:  
+2. Open the project in your browser:
+```
 http://223.130.146.101:5601/ 접속 후 로그인(ID: elastic, PW: changeme)
-
+```
