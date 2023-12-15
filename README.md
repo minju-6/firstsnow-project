@@ -34,6 +34,8 @@
 1. 데이터 수집
    - IoT 디바이스에서 발생한 메시지 수집
    - MQTT 프로토콜을 이용하여 데이터 수신
+<img width="532" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/a4dc2e45-3463-4e28-adc2-29a6e4209b1c">
+
      
 2. 데이터 전처리
    - Jackson 라이브러리르 사용하여 JSON 데이터를 자바 객체로 파싱
