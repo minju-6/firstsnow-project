@@ -15,13 +15,9 @@ import java.util.List;
 public class EventService {
     private final ObjectMapper objectMapper;
     private final EventRepository eventRepository;
-
-    //    EventType.Object object = eventType.getObject();
+    
     EventType eventType = new EventType();
-
     public EventType savePayload(String jsonData) {
-
-        //System.currentTimeMillis();
         try {
             eventType =  objectMapper.readValue(jsonData, EventType.class);
             batteryStatus();
