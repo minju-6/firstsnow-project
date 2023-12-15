@@ -14,7 +14,7 @@
   - GPS 에러 감지
   - 통신 에러 감지
 
-
+  
 ## ⌛️ 개발 기간
 2023.09 ~ 2023.12.10 
 
@@ -28,7 +28,7 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=kibana)
 
-
+  
 ## ❗ 코드 수행 과정
 1. 데이터 수집
    - IoT 디바이스에서 발생한 메시지 수집
@@ -40,19 +40,20 @@
 3. 데이터 저장 및 시각화
    - 데이터를 Elasticsearch에 저장하고 Kibana로 시각
 
-
+  
 ## 실행 방법
 1. Open the project in your browser:
 ```
 http://223.130.146.101:5601
 접속 후 로그인(ID: elastic, PW: changeme)
-```  
+```
+  
 2. Click the Discover and select Data views: firstsnow-final
-    
+      
 3. Click the Dashboard
 
-
+  
 ## 📧 연락처 정보
-hjhj3677@naver.com
+hjhj3677@naver.com  
 alswn9691@naver.com
 
