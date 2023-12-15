@@ -92,7 +92,7 @@ public class MqttConfig {
             String payload = (String) message.getPayload();
             eventService.savePayload(payload);
             System.out.println("MQTT Data - Topic: \n" + topic);
-//            System.out.println("Payload" + message.getPayload());
+            System.out.println("Payload" + message.getPayload());
         };
     }
 
