@@ -42,27 +42,28 @@
 <img width="503" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/9f02134f-31e6-4c22-895e-ec17c7945bc4">  
 
 
-- 파싱된 데이터에서 배터리, 기울기, 위도 및 경도, 통신 에러 정보를 추출     
-2.1 통신 에러 감지
+- 파싱된 데이터에서 배터리, 기울기, 위도 및 경도, 통신 에러 정보를 추출  
+     
+  2.1 통신 에러 감지
      
   <img width="300" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/324c35bf-ce85-4b03-91c0-dbdbd09434a1">  
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------  
 
-2.2 배터리 에러 감지  
+  2.2 배터리 에러 감지  
 
   <img width="300" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/ffa44d18-4779-4222-9535-d8c95f0afd03">   
 
 ----------------------------------------------------------------------------------------------------------------------------------------------    
 
-2.3 넘어짐 감지  
+  2.3 넘어짐 감지  
 
   <img width="300" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/bd6cd5be-9d53-42d9-a85d-96ba7e9c5d95">  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------  
 
-2.4. GPS 에러 감지  
+  2.4 GPS 에러 감지  
 
   <img width="300" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/193dd8f9-3bbe-41e1-96be-800b4cfff53c">  
 
