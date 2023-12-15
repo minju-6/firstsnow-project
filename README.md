@@ -92,25 +92,25 @@
    - 데이터를 Elasticsearch에 저장하고 Kibana로 시각
 
   
-## 실행 방법
+## 🔗 실행 방법
 1. 아래의 웹사이트에 접속한다. (ID: elastic, PW: changeme):
 ```
 http://223.130.146.101:5601
 ```
   
-2. Discover를 누르고 Data views: firstsnow-final를 선택한다.
+2. 전동보장구로부터 들어오는 데이터의 현황을 확인할 수 있다.   
 ```
-전동보장구로부터 들어오는 데이터의 현황을 확인할 수 있다.
+왼쪽 상단의 '≡' 누르고 Discover로 들어간 후 Data views: firstsnow-final를 선택한다.
 ```
    
-3. Dashboard로 이동한다.
+3. 수집된 로그 데이터들을 시각화하였다.
 ```
-수집된 로그 데이터들을 시각화하였다.
+왼쪽 상단의 '≡' 누르고 Dashboard로 이동한다.
 ```
   
 ## 📧 연락처 정보
 hjhj3677@naver.com  
-alswn9691@naver.com
+alswn9691@naver.com  
 
-
+  
 본 프로젝트는 전북대학교 2023년 2학기 '산학실전캡스톤' 수업의 팀 프로젝트입니다.
