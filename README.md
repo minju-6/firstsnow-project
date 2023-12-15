@@ -14,8 +14,6 @@ IoT 장치와 센서에서 발생한 데이터 및 이벤트 메시지를 수집
 
 ### 개발 환경
 ![Spring Boot](https://img.shields.io/badge/springboot-%6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-
-
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=kibana)
 
