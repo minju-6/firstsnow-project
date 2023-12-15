@@ -46,24 +46,24 @@
      
   2.1 통신 에러 감지
      
-  <img width="300" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/324c35bf-ce85-4b03-91c0-dbdbd09434a1">  
+  <img width="300" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/324c35bf-ce85-4b03-91c0-dbdbd09434a1">    
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------  
-      
+----------------------------------------------------------------------------------------------------------------------------------------------    
+     
   2.2 배터리 에러 감지  
 
   <img width="300" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/ffa44d18-4779-4222-9535-d8c95f0afd03">   
 
 ----------------------------------------------------------------------------------------------------------------------------------------------    
-        
+     
   2.3 넘어짐 감지  
 
   <img width="300" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/bd6cd5be-9d53-42d9-a85d-96ba7e9c5d95">  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------  
-        
-  2.4 GPS 에러 감지  
+     
+  2.4 GPS 에러 감지 
 
   <img width="300" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/193dd8f9-3bbe-41e1-96be-800b4cfff53c">  
 
