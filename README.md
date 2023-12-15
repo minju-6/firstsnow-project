@@ -13,11 +13,11 @@ IoT 장치와 센서에서 발생한 데이터 및 이벤트 메시지를 수집
 - IT 정보공학과 김민주  
 
 ### 개발 환경
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Kibana](https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=kibana)
 
-https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white
 
 ##  주요 기능
 
