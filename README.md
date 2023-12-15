@@ -42,12 +42,12 @@
 
  
 2. 데이터 전처리 (담당 클래스: EventService.java)  
-  - Jackson 라이브러리를 사용하여 JSON 데이터를 자바 객체로 파싱    
-
+  - Jackson 라이브러리를 사용하여 JSON 데이터를 자바 객체로 파싱
+  - 파싱된 데이터에서 배터리, 기울기, 위도 및 경도, 통신 에러 정보를 추출
+      
 <img width="503" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/9f02134f-31e6-4c22-895e-ec17c7945bc4">    
 
 
-  - 파싱된 데이터에서 배터리, 기울기, 위도 및 경도, 통신 에러 정보를 추출  
      
   2.1 통신 에러 감지  
   : EventType 객체의 Object 필드가 null인지 여부를 확인하고, 필드를 갱신  
@@ -70,7 +70,7 @@
 
 
 
-  2.4 GPS 에러 감지 
+  2.4 GPS 에러 감지   
   : EventType 객체에서 기기의 위치 정보를 확인하고, 이를 기반으로 운행 상태 메시지 갱신  
   
   <img width="300" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/193dd8f9-3bbe-41e1-96be-800b4cfff53c">    
