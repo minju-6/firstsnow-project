@@ -31,21 +31,21 @@
 
   
 ## ❗ 코드 수행 과정
-1. 데이터 수집
+1. 데이터 수집 (담당 클래스: MqttConfig.java)  
    - IoT 디바이스에서 발생한 메시지 수집
    - MQTT 프로토콜을 이용하여 데이터 수신  
        
-    담당 클래스: MqttConfig.java  
+      
 
 <img width="532" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/a4dc2e45-3463-4e28-adc2-29a6e4209b1c">  
 
 
  
-2. 데이터 전처리  
-담당 클래스: EventService.java
+2. 데이터 전처리 (담당 클래스: EventService.java)  
 - Jackson 라이브러리를 사용하여 JSON 데이터를 자바 객체로 파싱    
 
 <img width="503" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/9f02134f-31e6-4c22-895e-ec17c7945bc4">    
+
 
 - 파싱된 데이터에서 배터리, 기울기, 위도 및 경도, 통신 에러 정보를 추출  
      
