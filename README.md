@@ -14,9 +14,9 @@
 
 ### 4. 화면 구성
 
-
+-------------------------------------------------------------------------------------------------
 ### 5. 실행 방법
-git clone 
+git clone https://github.com/hyeonjikim-kr/firstsnow-project.git
 http://223.130.146.101:5601/ 접속 후 로그인(ID: elastic, PW: changeme)
 
 
