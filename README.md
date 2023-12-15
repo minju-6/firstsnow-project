@@ -39,7 +39,14 @@
      
 2. 데이터 전처리
    - Jackson 라이브러리르 사용하여 JSON 데이터를 자바 객체로 파싱
+<img width="503" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/9f02134f-31e6-4c22-895e-ec17c7945bc4">
+
    - 파싱된 데이터에서 배터리, 기울기, 위도 및 경도, 통신 에러 정보를 추출
+<img width="341" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/324c35bf-ce85-4b03-91c0-dbdbd09434a1">
+<img width="338" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/ffa44d18-4779-4222-9535-d8c95f0afd03">
+<img width="422" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/bd6cd5be-9d53-42d9-a85d-96ba7e9c5d95">
+<img width="335" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/193dd8f9-3bbe-41e1-96be-800b4cfff53c">
+
 3. 데이터 저장 및 시각화
    - 데이터를 Elasticsearch에 저장하고 Kibana로 시각
 
