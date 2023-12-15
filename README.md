@@ -39,13 +39,14 @@
      
 2. 데이터 전처리
 - Jackson 라이브러리르 사용하여 JSON 데이터를 자바 객체로 파싱
-  <img width="503" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/9f02134f-31e6-4c22-895e-ec17c7945bc4">
+<img width="503" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/9f02134f-31e6-4c22-895e-ec17c7945bc4">  
 
-- 파싱된 데이터에서 배터리, 기울기, 위도 및 경도, 통신 에러 정보를 추출
-     
+
+- 파싱된 데이터에서 배터리, 기울기, 위도 및 경도, 통신 에러 정보를 추출     
 2.1 통신 에러 감지
      
   <img width="300" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/324c35bf-ce85-4b03-91c0-dbdbd09434a1">  
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------  
 
