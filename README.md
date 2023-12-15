@@ -37,10 +37,11 @@
 ## 실행 방법
 1. Clone the repository:
 ```
-git clone https://github.com/hyeonjikim-kr/firstsnow-project.git
-```
-
+git clone https://github.com/hyeonjikim-kr/firstsnow-project.git  
+```  
 2. Open the project in your browser:
 ```
-http://223.130.146.101:5601/ 접속 후 로그인(ID: elastic, PW: changeme)
-```
+http://223.130.146.101:5601/ 접속 후 로그인(ID: elastic, PW: changeme)  
+```  
+3. Click the Discover and select Data views: firstsnow-final  
+4. Click the Dashboard  
