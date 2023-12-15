@@ -53,28 +53,28 @@ batteryStatus(), angleState(), shutDown() 메서드 호출하여 각각 배터�
 - 파싱된 데이터에서 배터리, 기울기, 위도 및 경도, 통신 에러 정보를 추출  
      
   2.1 통신 에러 감지
-     
+  
+  : EventType 객체의 Object 필드가 null인지 여부를 확인하고, 필드를 갱신  
+
   <img width="300" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/324c35bf-ce85-4b03-91c0-dbdbd09434a1">      
   
-EventType 객체의 Object 필드가 null인지 여부를 확인하고, 필드를 갱신
 
   2.2 배터리 에러 감지  
+  : EventType 객체에서 배터리 상태를 확인하여, 이를 기반으로 배터리 에러 메시지 갱신  
 
   <img width="300" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/ffa44d18-4779-4222-9535-d8c95f0afd03">   
 
-EventType 객체에서 배터리 상태를 확인하여, 이를 기반으로 배터리 에러 메시지 갱
-     
   2.3 넘어짐 감지  
+  : EventType 객체에서 기울기 상태를 확인하고, 이를 기반으로 Roll 및 Pitch 상태 메시지 갱신  
 
   <img width="300" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/bd6cd5be-9d53-42d9-a85d-96ba7e9c5d95">  
 
-EventType 객체에서 기울기 상태를 확인하고, 이를 기반으로 Roll 및 Pitch 상태 메시지 갱신
-
   2.4 GPS 에러 감지 
-
+  : EventType 객체에서 기기의 위치 정보를 확인하고, 이를 기반으로 운행 상태 메시지 갱신  
+  
   <img width="300" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/193dd8f9-3bbe-41e1-96be-800b4cfff53c">  
 
-EventType 객체에서 기기의 위치 정보를 확인하고, 이를 기반으로 운행 상태 메시지 갱신
+
 
 3. 데이터 저장 및 시각화
    - 데이터를 Elasticsearch에 저장하고 Kibana로 시각
