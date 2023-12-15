@@ -19,13 +19,13 @@
 - IT 정보공학과 김현지
 - IT 정보공학과 김민주  
 
-### 개발 환경
+### 🔧 개발 환경
 <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)   
 <img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge">![Spring Boot](https://img.shields.io/badge/springboot-%6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)    
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=kibana)
 
-## 코드 수행 과정
+## ❗ 코드 수행 과정
 1. 데이터 수집
    - IoT 디바이스에서 발생한 메시지 수집
    - MQTT 프로토콜을 이용하여 데이터 수신
@@ -33,9 +33,8 @@
 2. 데이터 전처리
    - Jackson 라이브러리르 사용하여 JSON 데이터를 자바 객체로 파싱
    - 파싱된 데이터에서 배터리, 기울기, 위도 및 경도, 통신 에러 정보를 추출
-     
 3. 데이터 저장 및 시각화
-  - 데이터를 Elasticsearch에 저장하고 Kibana로 시각
+   - 데이터를 Elasticsearch에 저장하고 Kibana로 시각
 
 ## 실행 방법
 1. Open the project in your browser:
@@ -46,5 +45,5 @@ http://223.130.146.101:5601/ 접속 후 로그인(ID: elastic, PW: changeme)
     
 3. Click the Dashboard
 
-## 연락처 정보
+## 📧 연락처 정보
 
