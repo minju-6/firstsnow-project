@@ -67,8 +67,16 @@
 3. 데이터 저장 및 시각화
    - 데이터를 Elasticsearch에 저장하고 Kibana로 시각
 
+## 📊 예시 이미지
+
+| 데이터 수집 | 대시보드 |
+|----------|----------|
+| ![Elasticsearch](./assets/feature1.png) | ![Dashboard](./assets/feature2.png) |
+| Elasticsearch로 데이터 수집 | 실시간 데이터 시각화 | 
+
+> ⚠️ 현재는 서비스 배포가 중단된 상태이므로, 예시 이미지를 사용했습니다.
   
-## 🔗 실행 방법
+## 🔗 실행 방법 (❌ 서비스 중단 ❌)
 1. 아래의 웹사이트에 접속한다. (ID: elastic, PW: changeme):
 ```
 http://223.130.146.101:5601
